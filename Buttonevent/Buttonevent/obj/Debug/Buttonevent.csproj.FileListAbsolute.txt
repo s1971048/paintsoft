@@ -1,0 +1,12 @@
+C:\Users\souki\source\repos\Buttonevent\Buttonevent\bin\Debug\Buttonevent.exe.config
+C:\Users\souki\source\repos\Buttonevent\Buttonevent\bin\Debug\Buttonevent.exe
+C:\Users\souki\source\repos\Buttonevent\Buttonevent\bin\Debug\Buttonevent.pdb
+C:\Users\souki\source\repos\Buttonevent\Buttonevent\obj\Debug\Buttonevent.csproj.AssemblyReference.cache
+C:\Users\souki\source\repos\Buttonevent\Buttonevent\obj\Debug\Buttonevent.csproj.SuggestedBindingRedirects.cache
+C:\Users\souki\source\repos\Buttonevent\Buttonevent\obj\Debug\Buttonevent.Form1.resources
+C:\Users\souki\source\repos\Buttonevent\Buttonevent\obj\Debug\Buttonevent.Properties.Resources.resources
+C:\Users\souki\source\repos\Buttonevent\Buttonevent\obj\Debug\Buttonevent.csproj.GenerateResource.cache
+C:\Users\souki\source\repos\Buttonevent\Buttonevent\obj\Debug\Buttonevent.csproj.CoreCompileInputs.cache
+C:\Users\souki\source\repos\Buttonevent\Buttonevent\obj\Debug\Buttonevent.exe
+C:\Users\souki\source\repos\Buttonevent\Buttonevent\obj\Debug\Buttonevent.pdb
+C:\Users\souki\source\repos\Buttonevent\Buttonevent\obj\Debug\Buttonevent.CheckItem.resources
